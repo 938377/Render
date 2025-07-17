@@ -1,4 +1,1 @@
-flask
-pyrogram==2.0.106
-tgcrypto
-yt-dlp
+
